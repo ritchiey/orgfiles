@@ -1,0 +1,4 @@
+#+title: blah
+Blah is a [[word]] I use when I don't know what else to write. I often use it for [[variables]].
+* word
+The second smallest unit in English.

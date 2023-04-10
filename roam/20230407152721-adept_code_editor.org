@@ -1,0 +1,5 @@
+#+title: Adept Code Editor
+
+This is a **code** editor as opposed to a text editor. It works on [[file:20230407152815-abstract_syntax_trees.org][abstract syntax trees]] so it's not possible to insert errors. It runs in a browser and supports phone screen sizes.
+
+It is written in Clojurescript.

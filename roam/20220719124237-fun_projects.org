@@ -1,0 +1,19 @@
+#+title: Fun Projects
+
+** [[file:20230407153702-whatwhere.org][WhatWhere?]]
+Simple inventory system for home use. Tracks what you put in each container and in what room. May support QR codes for easy interaction.
+
+** Unnamed Finance Project
+Define financial scenarios and review likely outcomes. Helps answer questions like "Should I pay my mortgage or put more into Super?"
+
+** Super Snake Game
+Snakes escape from the basic original snake game, get super powers, grow into giants and destroy the city. 2d online multiplayer.
+
+** When Cake Attacks
+Program an ant-like army of killer pastries to compete with other pastry armies. Probably using Clojurescript and SCI.
+
+** [[file:20230407152721-adept_code_editor.org][Adept Code Editor]]
+- A web-based tree editor that can be used for editing AST trees and therefore programming.
+
+** Clowns with Guns
+ Clown characters (which are made entirely of balls) in multi-player 2d game. Switches between 2d platformer and sniping game.

@@ -1,0 +1,18 @@
+#+title: WhatWhere?
+
+Simple inventory system for home or small business use.
+
+** Web application
+** Tracks items
+** Items can optionally be stored in Containers
+** Items and Containers can be put in Rooms
+** Rooms exist in a Building
+** Buildings exist on a Site
+** A Site has an address
+** Example Queries
+*** Where's my bowling ball?
+*** What's in this box?
+*** How many m4 wood screws are left?
+** Advanced Features
+*** Print a QR code for an object so that it can be looked up using the camera.
+*** Record what items are going into a container by scanning the container's code then scanning the items.

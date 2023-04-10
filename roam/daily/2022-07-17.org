@@ -1,0 +1,10 @@
+#+title: 2022-07-17
+
+
+** Couldn't find recovery code for Ledger Live hardware wallet
+** Transferred all Bitcoin from Ledger live wallet to Exodus wallet
+** Transferred all Stellar from Ledger live wallet to Exodus wallet
+** Transferred all Bitcoin from Coinspot to Exodus wallet
+**
+
+Discount code for koinly BLITZ007 15% for 24 hours

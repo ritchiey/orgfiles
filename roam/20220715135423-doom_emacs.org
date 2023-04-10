@@ -1,0 +1,4 @@
+#+title: doom emacs
+
+** Space n r c - Capture Org Roam note
+** Space n r r - Open Roam
